@@ -1,0 +1,4 @@
+Coachbot/
+├── backend/
+│   ├── server.js
+│   ├── package.json
